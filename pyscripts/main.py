@@ -5,4 +5,4 @@
             Element("output").write("Hello, World!")
 
         # Bind the print_hello function to the button's click event
-        Element("run").element.onclick = print_hello
+        Element("helloBtn").element.onclick = print_hello
