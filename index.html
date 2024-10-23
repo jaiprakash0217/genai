@@ -1,26 +1,31 @@
-<!doctype html>
-<html>
-<head><title>My Bot Page - KPI Application</title>
- <meta charset="UTF-8">
- <meta name="viewport" content="width=device-width, initial-scale=1.0">
- <!--
- <link rel="stylesheet" href="https://pyscript.net/releases/2024.10.1/core.css">
- <script type="module" src="https://pyscript.net/releases/2024.10.1/core.js"></script>
- -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PyScript Hello World</title>
     <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
     <script defer src="https://pyscript.net/latest/pyscript.js"></script>
 </head>
 <body>
-</div>
-   <h1>Welcome to PyScript - R1</h1>
+
+    <h1>Welcome to PyScript</h1>
+
     <button id="helloBtn">Click Me</button>
-    <p id="output">Hello ....</p>
-</div>
-<script type="py">
-   from pyscript import Element
+
+    <p id="output"></p>
+
+    <py-script>
+        from pyscript import Element
+
+        # Function to print "Hello, World!" (it must accept the event argument)
         def print_hello(event):
             Element("output").write("Hello, World!")
+
+        # Bind the print_hello function to the button's click event
         Element("helloBtn").element.onclick = print_hello
-</script>
- </body?
+
+    </py-script>
+
+</body>
 </html>
