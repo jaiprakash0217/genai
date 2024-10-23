@@ -13,10 +13,10 @@
     <p id="output">Hello ....</p>
 </div>
              <script type="py">
-                from pyscript import display
-              from datetime import datetime
-                   now = datetime.now()
-                   display(now.strftime("%m/%d/%Y, %H:%M:%S"))
+from pyscript import Element
+def print_hello(event):
+        Element("output").write("Hello, World!")
+        Element("helloBtn").element.onclick = print_hello
             </script>
  <!-- script type="py" src="./pyscripts/main.py" -->
  </script>
