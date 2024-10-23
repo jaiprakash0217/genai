@@ -12,7 +12,13 @@
     <button id="helloBtn">Click Me</button>
     <p id="output">Hello ....</p>
 </div>
-<script type="py" src="./pyscripts/main.py" >
+             <script type="py">
+                from pyscript import display
+                from datetime import datetime
+                now = datetime.now()
+                display(now.strftime("%m/%d/%Y, %H:%M:%S"))
+            </script>
+ <script type="py" src="./pyscripts/main.py" >
  </script>
 </body?
 </html>
