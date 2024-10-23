@@ -15,14 +15,10 @@
              <script type="py">
                 from pyscript import display
                 from datetime import datetime
-                from pyscript import Element
                 from pyscript import config
                    print(config.get("files"))
-                   def print_hello(event):
-                   Element("output").write("Hello, From HTML Page!")
-                   Element("helloBtn").element.onclick = print_hello
-                now = datetime.now()
-                display(now.strftime("%m/%d/%Y, %H:%M:%S"))
+                   now = datetime.now()
+                   display(now.strftime("%m/%d/%Y, %H:%M:%S"))
             </script>
  <!-- script type="py" src="./pyscripts/main.py" -->
  </script>
