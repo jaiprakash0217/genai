@@ -14,7 +14,12 @@
     <button id="helloBtn">Click Me</button>
 
     <p id="output"></p>
-    <script type="py" config="config.toml" >
+    <py-script>
+        [[fetch]]
+        from = "./pyscripts/"
+        files = ["main.py"]
+    </py-script>
+    <script type="py"  >
         from pyscript import Element
         from main import print_hello
         Element("helloBtn").element.onclick = print_hello
