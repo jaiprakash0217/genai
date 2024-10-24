@@ -15,8 +15,12 @@
 
     <p id="output"></p>
     <py-config>
-          [fetch]
-            "https://github.com/jaiprakash0217/genai/blob/main/pyscripts/main.py"="./main.py"
+          [[fetch]]
+              from = "https://raw.githubusercontent.com/pyscript/pyscript/main/pyscriptjs/src/python/"
+              files = ["pyscript.py"]
+              [[fetch]]
+              from = "https://github.com/jaiprakash0217/genai/blob/main/pyscripts/"
+              files = ["main.py"]
     </py-config>
  
     <script type="py" src="main.py" >
