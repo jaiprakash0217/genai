@@ -1,5 +1,3 @@
-{
-  "files": {
-    "https://github.com/jaiprakash0217/genai/blob/main/pyscripts/main.py": "config.py"
-  }
-}
+      [[fetch]]
+      from = "./pyscripts/"
+      files = ["main.py"]
