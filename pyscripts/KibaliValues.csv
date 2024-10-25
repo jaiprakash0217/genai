@@ -1,0 +1,435 @@
+﻿kpi_name,full_date,value,value_type,year,week_number,mine_name,department_name,reporting_date_id,department_id,mine_id
+Total Volume Mined,2024-08-26,55501.000000,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+Total Volume Mined,2024-08-27,55555.000000,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+Total Volume Mined,2024-08-28,43875.000000,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+Total Volume Mined,2024-08-29,49632.000000,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+Total Volume Mined,2024-08-30,53124.000000,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+Total Volume Mined,2024-08-31,54129.000000,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+Total Volume Mined,2024-09-01,57481.000000,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+Total Volume Mined,2024-08-26,46437.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+Total Volume Mined,2024-08-27,45295.000000,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+Total Volume Mined,2024-08-28,42895.000000,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+Total Volume Mined,2024-08-29,46855.000000,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+Total Volume Mined,2024-08-30,42500.000000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+Total Volume Mined,2024-08-31,44395.000000,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+Total Volume Mined,2024-09-01,48296.000000,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Ore Tonnes Mined,2024-08-26,2102.000000,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Ore Tonnes Mined,2024-08-27,2834.000000,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Ore Tonnes Mined,2024-08-28,5051.000000,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Ore Tonnes Mined,2024-08-29,13675.000000,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Ore Tonnes Mined,2024-08-30,10554.000000,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Ore Tonnes Mined,2024-08-31,2425.000000,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Ore Tonnes Mined,2024-09-01,15084.000000,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Ore Tonnes Mined,2024-08-26,0.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Ore Tonnes Mined,2024-08-27,692.000000,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Ore Tonnes Mined,2024-08-28,5502.000000,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Ore Tonnes Mined,2024-08-29,5987.000000,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Ore Tonnes Mined,2024-08-30,8159.000000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Ore Tonnes Mined,2024-08-31,5712.000000,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Ore Tonnes Mined,2024-09-01,9854.000000,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Waste Tonnes Mined,2024-08-26,125448.000000,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Waste Tonnes Mined,2024-08-27,126966.000000,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Waste Tonnes Mined,2024-08-28,97716.000000,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Waste Tonnes Mined,2024-08-29,98235.000000,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Waste Tonnes Mined,2024-08-30,111872.000000,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Waste Tonnes Mined,2024-08-31,121043.000000,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Waste Tonnes Mined,2024-09-01,117945.000000,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Waste Tonnes Mined,2024-08-26,108360.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Waste Tonnes Mined,2024-08-27,105484.000000,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Waste Tonnes Mined,2024-08-28,94303.000000,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Waste Tonnes Mined,2024-08-29,103297.000000,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Waste Tonnes Mined,2024-08-30,94388.000000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Waste Tonnes Mined,2024-08-31,100007.000000,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Waste Tonnes Mined,2024-09-01,104894.000000,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Total Tonnes Mined,2024-08-26,127550.000000,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Total Tonnes Mined,2024-08-27,129800.000000,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Total Tonnes Mined,2024-08-28,102767.000000,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Total Tonnes Mined,2024-08-29,111910.000000,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Total Tonnes Mined,2024-08-30,122426.000000,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Total Tonnes Mined,2024-08-31,123468.000000,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Total Tonnes Mined,2024-09-01,133029.000000,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Total Tonnes Mined,2024-08-26,108360.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Total Tonnes Mined,2024-08-27,106176.000000,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Total Tonnes Mined,2024-08-28,99805.000000,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Total Tonnes Mined,2024-08-29,109284.000000,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Total Tonnes Mined,2024-08-30,102547.000000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Total Tonnes Mined,2024-08-31,105719.000000,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Total Tonnes Mined,2024-09-01,114748.000000,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Other Tonnes Moved,2024-08-26,0.000000,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Other Tonnes Moved,2024-08-27,0.000000,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Other Tonnes Moved,2024-08-28,0.000000,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Other Tonnes Moved,2024-08-29,0.000000,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Other Tonnes Moved,2024-08-30,0.000000,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Other Tonnes Moved,2024-08-31,0.000000,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Other Tonnes Moved,2024-09-01,0.000000,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Other Tonnes Moved,2024-08-26,0.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Other Tonnes Moved,2024-08-27,0.000000,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Other Tonnes Moved,2024-08-28,0.000000,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Other Tonnes Moved,2024-08-29,0.000000,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Other Tonnes Moved,2024-08-30,0.000000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Other Tonnes Moved,2024-08-31,0.000000,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Other Tonnes Moved,2024-09-01,0.000000,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+Strip Ratio,2024-08-26,59.680304,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+Strip Ratio,2024-08-27,44.800988,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+Strip Ratio,2024-08-28,19.345872,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+Strip Ratio,2024-08-29,7.183547,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+Strip Ratio,2024-08-30,10.599962,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+Strip Ratio,2024-08-31,49.914639,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+Strip Ratio,2024-09-01,7.819212,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+Strip Ratio,2024-08-26,0.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+Strip Ratio,2024-08-27,152.433526,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+Strip Ratio,2024-08-28,17.139767,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+Strip Ratio,2024-08-29,17.253549,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+Strip Ratio,2024-08-30,11.568575,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+Strip Ratio,2024-08-31,17.508228,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+Strip Ratio,2024-09-01,10.644814,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Contained Au,2024-08-26,145.000000,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Contained Au,2024-08-27,288.160000,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Contained Au,2024-08-28,231.000000,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Contained Au,2024-08-29,624.330000,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Contained Au,2024-08-30,475.000000,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Contained Au,2024-08-31,81.310000,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Contained Au,2024-09-01,526.470000,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Contained Au,2024-08-26,0.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Contained Au,2024-08-27,21.000000,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Contained Au,2024-08-28,331.000000,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Contained Au,2024-08-29,239.000000,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Contained Au,2024-08-30,512.000000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Contained Au,2024-08-31,302.000000,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Contained Au,2024-09-01,533.000000,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Grade Mined,2024-08-26,2.145578,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Grade Mined,2024-08-27,3.162589,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Grade Mined,2024-08-28,1.422471,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Grade Mined,2024-08-29,1.420024,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Grade Mined,2024-08-30,1.399863,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Grade Mined,2024-08-31,1.042896,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Grade Mined,2024-09-01,1.085591,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Grade Mined,2024-08-26,0.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Grade Mined,2024-08-27,0.943892,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Grade Mined,2024-08-28,1.871183,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Grade Mined,2024-08-29,1.241645,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Grade Mined,2024-08-30,1.951830,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Grade Mined,2024-08-31,1.644477,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Grade Mined,2024-09-01,1.682378,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Blasted Material,2024-08-26,0.000000,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Blasted Material,2024-08-27,0.000000,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Blasted Material,2024-08-28,31725.000000,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Blasted Material,2024-08-29,0.000000,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Blasted Material,2024-08-30,12880.000000,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Blasted Material,2024-08-31,68650.000000,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Blasted Material,2024-09-01,13500.000000,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Blasted Material,2024-08-26,0.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Blasted Material,2024-08-27,31725.000000,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Blasted Material,2024-08-28,0.000000,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Blasted Material,2024-08-29,0.000000,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Blasted Material,2024-08-30,110740.000000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Blasted Material,2024-08-31,85420.000000,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Blasted Material,2024-09-01,0.000000,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+Broken Stock,2024-08-26,486413.000000,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+Broken Stock,2024-08-27,447990.000000,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+Broken Stock,2024-08-28,447990.000000,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+Broken Stock,2024-08-29,427970.000000,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+Broken Stock,2024-08-30,415165.000000,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+Broken Stock,2024-08-31,456059.000000,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+Broken Stock,2024-09-01,398022.000000,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+Broken Stock,2024-08-26,524022.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+Broken Stock,2024-08-27,555747.000000,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+Broken Stock,2024-08-28,555747.000000,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+Broken Stock,2024-08-29,555747.000000,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+Broken Stock,2024-08-30,666487.000000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+Broken Stock,2024-08-31,751907.000000,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+Broken Stock,2024-09-01,751907.000000,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Production Drilling,2024-08-26,1496.000000,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Production Drilling,2024-08-27,1517.000000,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Production Drilling,2024-08-28,1151.000000,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Production Drilling,2024-08-29,1687.000000,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Production Drilling,2024-08-30,1487.000000,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Production Drilling,2024-08-31,1740.000000,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Production Drilling,2024-09-01,2211.000000,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Production Drilling,2024-08-26,1893.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Production Drilling,2024-08-27,1893.000000,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Production Drilling,2024-08-28,1893.000000,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Production Drilling,2024-08-29,1893.000000,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Production Drilling,2024-08-30,1893.000000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Production Drilling,2024-08-31,1893.000000,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Production Drilling,2024-09-01,1893.000000,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Pre-Split Drilling,2024-08-26,350.000000,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Pre-Split Drilling,2024-08-27,95.200000,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Pre-Split Drilling,2024-08-28,71.000000,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Pre-Split Drilling,2024-08-29,191.800000,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Pre-Split Drilling,2024-08-30,108.000000,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Pre-Split Drilling,2024-08-31,201.000000,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Pre-Split Drilling,2024-09-01,782.700000,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Pre-Split Drilling,2024-08-26,339.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Pre-Split Drilling,2024-08-27,339.000000,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Pre-Split Drilling,2024-08-28,339.000000,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Pre-Split Drilling,2024-08-29,339.000000,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Pre-Split Drilling,2024-08-30,339.000000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Pre-Split Drilling,2024-08-31,339.000000,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Pre-Split Drilling,2024-09-01,339.000000,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+Drill Metres,2024-08-26,1846.000000,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+Drill Metres,2024-08-27,1612.200000,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+Drill Metres,2024-08-28,1222.000000,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+Drill Metres,2024-08-29,1878.800000,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+Drill Metres,2024-08-30,1595.000000,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+Drill Metres,2024-08-31,1941.000000,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+Drill Metres,2024-09-01,2993.700000,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+Drill Metres,2024-08-26,2232.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+Drill Metres,2024-08-27,2232.000000,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+Drill Metres,2024-08-28,2232.000000,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+Drill Metres,2024-08-29,2232.000000,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+Drill Metres,2024-08-30,2232.000000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+Drill Metres,2024-08-31,2232.000000,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+Drill Metres,2024-09-01,2232.000000,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+Powder Factor,2024-08-26,0.000000,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+Powder Factor,2024-08-27,0.000000,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+Powder Factor,2024-08-28,0.690000,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+Powder Factor,2024-08-29,0.000000,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+Powder Factor,2024-08-30,0.810000,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+Powder Factor,2024-08-31,0.930000,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+Powder Factor,2024-09-01,0.850000,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+Powder Factor,2024-08-26,0.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+Powder Factor,2024-08-27,0.700000,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+Powder Factor,2024-08-28,0.000000,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+Powder Factor,2024-08-29,0.000000,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+Powder Factor,2024-08-30,0.800000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+Powder Factor,2024-08-31,0.900000,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+Powder Factor,2024-09-01,0.000000,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+Diesel Consumed (Mining OP),2024-08-26,38116.000000,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+Diesel Dosage (Mining OP),2024-08-26,0.686762,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+Diesel Consumed (Mining OP),2024-08-27,49553.000000,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+Diesel Dosage (Mining OP),2024-08-27,0.891963,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+Diesel Consumed (Mining OP),2024-08-28,51063.000000,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+Diesel Dosage (Mining OP),2024-08-28,1.163829,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+Diesel Dosage (Mining OP),2024-08-29,0.957648,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+Diesel Consumed (Mining OP),2024-08-29,47530.000000,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+Diesel Dosage (Mining OP),2024-08-30,0.487294,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+Diesel Consumed (Mining OP),2024-08-30,25887.000000,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+Diesel Consumed (Mining OP),2024-08-31,38239.000000,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+Diesel Dosage (Mining OP),2024-08-31,0.706442,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+Diesel Dosage (Mining OP),2024-09-01,0.977784,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+Diesel Consumed (Mining OP),2024-09-01,56204.000000,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+Diesel Consumed (Mining OP),2024-08-26,60369.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+Diesel Dosage (Mining OP),2024-08-26,1.300019,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+Diesel Dosage (Mining OP),2024-08-27,1.300011,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+Diesel Consumed (Mining OP),2024-08-27,58884.000000,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+Diesel Consumed (Mining OP),2024-08-28,55764.000000,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+Diesel Dosage (Mining OP),2024-08-28,1.300012,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+Diesel Consumed (Mining OP),2024-08-29,60912.000000,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+Diesel Dosage (Mining OP),2024-08-29,1.300011,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+Diesel Dosage (Mining OP),2024-08-30,1.300000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+Diesel Consumed (Mining OP),2024-08-30,55250.000000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+Diesel Consumed (Mining OP),2024-08-31,57714.000000,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+Diesel Dosage (Mining OP),2024-08-31,1.300011,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+Diesel Consumed (Mining OP),2024-09-01,62784.000000,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+Diesel Dosage (Mining OP),2024-09-01,1.299983,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+Compliance To Plan – Ore Tonnes,2024-08-26,100.000000,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+Compliance To Plan – Ore Tonnes,2024-08-27,100.000000,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+Compliance To Plan – Ore Tonnes,2024-08-28,100.000000,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+Compliance To Plan – Ore Tonnes,2024-08-29,85.000000,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+Compliance To Plan – Ore Tonnes,2024-08-30,80.000000,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+Compliance To Plan – Ore Tonnes,2024-08-31,75.000000,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+Compliance To Plan – Ore Tonnes,2024-09-01,75.000000,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+Compliance To Plan – Ore Tonnes,2024-08-26,90.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+Compliance To Plan – Ore Tonnes,2024-08-27,90.000000,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+Compliance To Plan – Ore Tonnes,2024-08-28,90.000000,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+Compliance To Plan – Ore Tonnes,2024-08-29,90.000000,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+Compliance To Plan – Ore Tonnes,2024-08-30,90.000000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+Compliance To Plan – Ore Tonnes,2024-08-31,90.000000,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+Compliance To Plan – Ore Tonnes,2024-09-01,90.000000,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+Compliance To Plan – Waste Tonnes,2024-08-26,95.000000,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+Compliance To Plan – Waste Tonnes,2024-08-27,97.000000,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+Compliance To Plan – Waste Tonnes,2024-08-28,84.000000,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+Compliance To Plan – Waste Tonnes,2024-08-29,73.000000,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+Compliance To Plan – Waste Tonnes,2024-08-30,96.000000,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+Compliance To Plan – Waste Tonnes,2024-08-31,96.000000,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+Compliance To Plan – Waste Tonnes,2024-09-01,93.000000,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+Compliance To Plan – Waste Tonnes,2024-08-26,90.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+Compliance To Plan – Waste Tonnes,2024-08-27,90.000000,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+Compliance To Plan – Waste Tonnes,2024-08-28,90.000000,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+Compliance To Plan – Waste Tonnes,2024-08-29,90.000000,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+Compliance To Plan – Waste Tonnes,2024-08-30,90.000000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+Compliance To Plan – Waste Tonnes,2024-08-31,90.000000,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+Compliance To Plan – Waste Tonnes,2024-09-01,90.000000,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+Compliance To Plan – Planned Maintenance,2024-08-26,96.000000,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+Compliance To Plan – Planned Maintenance,2024-08-27,96.000000,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+Compliance To Plan – Planned Maintenance,2024-08-28,96.000000,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+Compliance To Plan – Planned Maintenance,2024-08-29,96.000000,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+Compliance To Plan – Planned Maintenance,2024-08-30,96.000000,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+Compliance To Plan – Planned Maintenance,2024-08-31,96.000000,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+Compliance To Plan – Planned Maintenance,2024-09-01,96.000000,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+Compliance To Plan – Planned Maintenance,2024-08-26,90.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+Compliance To Plan – Planned Maintenance,2024-08-27,90.000000,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+Compliance To Plan – Planned Maintenance,2024-08-28,90.000000,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+Compliance To Plan – Planned Maintenance,2024-08-29,90.000000,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+Compliance To Plan – Planned Maintenance,2024-08-30,90.000000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+Compliance To Plan – Planned Maintenance,2024-08-31,90.000000,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+Compliance To Plan – Planned Maintenance,2024-09-01,90.000000,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Drilling Productivity,2024-08-26,16.000000,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Drilling Productivity,2024-08-27,14.000000,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Drilling Productivity,2024-08-28,14.000000,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Drilling Productivity,2024-08-29,21.000000,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Drilling Productivity,2024-08-30,21.000000,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Drilling Productivity,2024-08-31,22.000000,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Drilling Productivity,2024-09-01,23.000000,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Drilling Productivity,2024-08-26,17.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Drilling Productivity,2024-08-27,17.000000,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Drilling Productivity,2024-08-28,17.000000,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Drilling Productivity,2024-08-29,17.000000,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Drilling Productivity,2024-08-30,17.000000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Drilling Productivity,2024-08-31,17.000000,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Drilling Productivity,2024-09-01,17.000000,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Loading Productivity,2024-08-26,316.000000,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Loading Productivity,2024-08-27,315.000000,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Loading Productivity,2024-08-28,321.000000,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Loading Productivity,2024-08-29,301.000000,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Loading Productivity,2024-08-30,268.000000,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Loading Productivity,2024-08-31,273.000000,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Loading Productivity,2024-09-01,305.000000,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Loading Productivity,2024-08-26,388.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Loading Productivity,2024-08-27,388.000000,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Loading Productivity,2024-08-28,388.000000,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Loading Productivity,2024-08-29,388.000000,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Loading Productivity,2024-08-30,388.000000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Loading Productivity,2024-08-31,388.000000,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Loading Productivity,2024-09-01,388.000000,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Hauling Productivity,2024-08-26,79.000000,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Hauling Productivity,2024-08-27,79.000000,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Hauling Productivity,2024-08-28,79.000000,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Hauling Productivity,2024-08-29,77.000000,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Hauling Productivity,2024-08-30,77.000000,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Hauling Productivity,2024-08-31,78.000000,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Hauling Productivity,2024-09-01,78.000000,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Hauling Productivity,2024-08-26,80.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Hauling Productivity,2024-08-27,80.000000,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Hauling Productivity,2024-08-28,80.000000,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Hauling Productivity,2024-08-29,80.000000,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Hauling Productivity,2024-08-30,80.000000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Hauling Productivity,2024-08-31,80.000000,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Hauling Productivity,2024-09-01,80.000000,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Ore Tonnes (Mined to Stock),2024-08-26,2102.000000,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Ore Tonnes (Mined to Stock),2024-08-27,2834.000000,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Ore Tonnes (Mined to Stock),2024-08-28,5051.000000,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Ore Tonnes (Mined to Stock),2024-08-29,13675.000000,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Ore Tonnes (Mined to Stock),2024-08-30,10554.000000,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Ore Tonnes (Mined to Stock),2024-08-31,2425.000000,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Ore Tonnes (Mined to Stock),2024-09-01,15084.000000,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Ore Tonnes (Mined to Stock),2024-08-26,0.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Ore Tonnes (Mined to Stock),2024-08-27,692.000000,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Ore Tonnes (Mined to Stock),2024-08-28,5502.000000,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Ore Tonnes (Mined to Stock),2024-08-29,5987.000000,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Ore Tonnes (Mined to Stock),2024-08-30,8159.000000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Ore Tonnes (Mined to Stock),2024-08-31,5712.000000,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Ore Tonnes (Mined to Stock),2024-09-01,9854.000000,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Grade Au (Mined to Stock),2024-08-26,2.145578,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Grade Au (Mined to Stock),2024-08-27,3.160833,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Grade Au (Mined to Stock),2024-08-28,1.422471,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Grade Au (Mined to Stock),2024-08-29,1.419274,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Grade Au (Mined to Stock),2024-08-30,1.399863,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Grade Au (Mined to Stock),2024-08-31,1.038920,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Grade Au (Mined to Stock),2024-09-01,1.084621,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Grade Au (Mined to Stock),2024-08-26,0.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Grade Au (Mined to Stock),2024-08-27,0.943892,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Grade Au (Mined to Stock),2024-08-28,1.871183,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Grade Au (Mined to Stock),2024-08-29,1.241645,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Grade Au (Mined to Stock),2024-08-30,1.951830,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Grade Au (Mined to Stock),2024-08-31,1.644477,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Grade Au (Mined to Stock),2024-09-01,1.682378,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Contained Au (Mined to Stock),2024-08-26,145.000000,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Contained Au (Mined to Stock),2024-08-27,288.000000,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Contained Au (Mined to Stock),2024-08-28,231.000000,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Contained Au (Mined to Stock),2024-08-29,624.000000,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Contained Au (Mined to Stock),2024-08-30,475.000000,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Contained Au (Mined to Stock),2024-08-31,81.000000,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Contained Au (Mined to Stock),2024-09-01,526.000000,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Contained Au (Mined to Stock),2024-08-26,0.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Contained Au (Mined to Stock),2024-08-27,21.000000,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Contained Au (Mined to Stock),2024-08-28,331.000000,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Contained Au (Mined to Stock),2024-08-29,239.000000,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Contained Au (Mined to Stock),2024-08-30,512.000000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Contained Au (Mined to Stock),2024-08-31,302.000000,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Contained Au (Mined to Stock),2024-09-01,533.000000,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Ore Tonnes (Stocks to Crusher),2024-08-26,18243.000000,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Ore Tonnes (Stocks to Crusher),2024-08-27,10679.000000,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Ore Tonnes (Stocks to Crusher),2024-08-28,13233.000000,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Ore Tonnes (Stocks to Crusher),2024-08-29,13671.000000,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Ore Tonnes (Stocks to Crusher),2024-08-30,13319.000000,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Ore Tonnes (Stocks to Crusher),2024-08-31,11296.000000,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Ore Tonnes (Stocks to Crusher),2024-09-01,12476.000000,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Ore Tonnes (Stocks to Crusher),2024-08-26,14500.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Ore Tonnes (Stocks to Crusher),2024-08-27,11000.000000,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Ore Tonnes (Stocks to Crusher),2024-08-28,13000.000000,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Ore Tonnes (Stocks to Crusher),2024-08-29,13000.000000,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Ore Tonnes (Stocks to Crusher),2024-08-30,13000.000000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Ore Tonnes (Stocks to Crusher),2024-08-31,12500.000000,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Ore Tonnes (Stocks to Crusher),2024-09-01,14500.000000,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Grade Au (Stocks to Crusher),2024-08-26,1.184943,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Grade Au (Stocks to Crusher),2024-08-27,1.508718,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Grade Au (Stocks to Crusher),2024-08-28,1.645313,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Grade Au (Stocks to Crusher),2024-08-29,1.613076,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Grade Au (Stocks to Crusher),2024-08-30,1.637025,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Grade Au (Stocks to Crusher),2024-08-31,1.533697,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Grade Au (Stocks to Crusher),2024-09-01,1.660381,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Grade Au (Stocks to Crusher),2024-08-26,1.383568,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Grade Au (Stocks to Crusher),2024-08-27,1.541036,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Grade Au (Stocks to Crusher),2024-08-28,1.440330,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Grade Au (Stocks to Crusher),2024-08-29,1.440330,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Grade Au (Stocks to Crusher),2024-08-30,1.440330,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Grade Au (Stocks to Crusher),2024-08-31,1.127190,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Grade Au (Stocks to Crusher),2024-09-01,0.883768,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Contained Au (Stocks to Crusher),2024-08-26,695.000000,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Contained Au (Stocks to Crusher),2024-08-27,518.000000,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Contained Au (Stocks to Crusher),2024-08-28,700.000000,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Contained Au (Stocks to Crusher),2024-08-29,709.000000,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Contained Au (Stocks to Crusher),2024-08-30,701.000000,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Contained Au (Stocks to Crusher),2024-08-31,557.000000,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Contained Au (Stocks to Crusher),2024-09-01,666.000000,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Contained Au (Stocks to Crusher),2024-08-26,645.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Contained Au (Stocks to Crusher),2024-08-27,545.000000,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Contained Au (Stocks to Crusher),2024-08-28,602.000000,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Contained Au (Stocks to Crusher),2024-08-29,602.000000,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Contained Au (Stocks to Crusher),2024-08-30,602.000000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Contained Au (Stocks to Crusher),2024-08-31,453.000000,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Contained Au (Stocks to Crusher),2024-09-01,412.000000,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Drilling Utilization,2024-08-26,79.000000,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Drilling Utilization,2024-08-27,79.000000,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Drilling Utilization,2024-08-28,75.000000,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Drilling Utilization,2024-08-29,75.000000,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Drilling Utilization,2024-08-30,70.000000,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Drilling Utilization,2024-08-31,62.000000,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Drilling Utilization,2024-09-01,83.000000,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Drilling Utilization,2024-08-26,81.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Drilling Utilization,2024-08-27,81.000000,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Drilling Utilization,2024-08-28,81.000000,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Drilling Utilization,2024-08-29,81.000000,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Drilling Utilization,2024-08-30,81.000000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Drilling Utilization,2024-08-31,81.000000,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Drilling Utilization,2024-09-01,81.000000,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Shovels Utilization,2024-08-26,88.000000,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Shovels Utilization,2024-08-27,93.000000,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Shovels Utilization,2024-08-28,79.000000,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Shovels Utilization,2024-08-29,86.000000,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Shovels Utilization,2024-08-30,91.000000,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Shovels Utilization,2024-08-31,97.000000,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Shovels Utilization,2024-09-01,97.000000,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Shovels Utilization,2024-08-26,76.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Shovels Utilization,2024-08-27,76.000000,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Shovels Utilization,2024-08-28,76.000000,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Shovels Utilization,2024-08-29,76.000000,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Shovels Utilization,2024-08-30,76.000000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Shovels Utilization,2024-08-31,76.000000,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Shovels Utilization,2024-09-01,76.000000,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Hauling Utilization,2024-08-26,90.000000,DailyActual,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Hauling Utilization,2024-08-27,90.000000,DailyActual,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Hauling Utilization,2024-08-28,79.000000,DailyActual,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Hauling Utilization,2024-08-29,90.000000,DailyActual,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Hauling Utilization,2024-08-30,90.000000,DailyActual,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Hauling Utilization,2024-08-31,89.000000,DailyActual,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Hauling Utilization,2024-09-01,90.000000,DailyActual,2024,35,Kibali,Open Cast,20240901,5,4
+OP - Hauling Utilization,2024-08-26,77.000000,DailyForecast,2024,35,Kibali,Open Cast,20240826,5,4
+OP - Hauling Utilization,2024-08-27,77.000000,DailyForecast,2024,35,Kibali,Open Cast,20240827,5,4
+OP - Hauling Utilization,2024-08-28,77.000000,DailyForecast,2024,35,Kibali,Open Cast,20240828,5,4
+OP - Hauling Utilization,2024-08-29,77.000000,DailyForecast,2024,35,Kibali,Open Cast,20240829,5,4
+OP - Hauling Utilization,2024-08-30,77.000000,DailyForecast,2024,35,Kibali,Open Cast,20240830,5,4
+OP - Hauling Utilization,2024-08-31,77.000000,DailyForecast,2024,35,Kibali,Open Cast,20240831,5,4
+OP - Hauling Utilization,2024-09-01,77.000000,DailyForecast,2024,35,Kibali,Open Cast,20240901,5,4
