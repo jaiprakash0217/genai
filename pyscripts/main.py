@@ -112,5 +112,5 @@ def ask_llm(llm_prompt):
   return generated_text
 
 from pyscript import Element
-           def print_hello(event):
-           Element('output').write('Hello, World!')
+def print_hello(event):
+    Element('output').write('Hello, World!')
