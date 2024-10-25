@@ -14,8 +14,7 @@ df_issues = pd.read_csv('KibaliKeyIssues.csv')
 def kpi_context_creation(df_kpi, df_issues):
 
     # Building the context template for KPIs
-    kpi_context_template = "For the KPI {kpi_name} for this week we forcasted that we will have for each day of the week accordingly: {daily_forecasts}
-    However, we actually achieved the following values per day of the week: {daily_values}"
+    kpi_context_template = "For the KPI {kpi_name} for this week we forcasted that we will have for each day of the week accordingly: {daily_forecasts} However, we actually achieved the following values per day of the week: {daily_values}"
     # Building the context template for key issues
     key_issues_context_template = "Having the follwing issues: {issues} with key issue names {issue_name} and corresponding actions {issue_action} happend on {issue_date}"
 
@@ -47,8 +46,7 @@ def kpi_context_creation(df_kpi, df_issues):
     context_text += key_issues_context_template.format(**key_issues_dict)
     return context_text
 # Create the prompt template
-llm_prompt_template = "Please summarize the context provided below comparing the weekly forcasted values with the actuals and along with any issue occured
- an to create a weekly summary to explaine the weekly performance of the mine: CONTEXT:{}"
+llm_prompt_template = "Please summarize the context provided below comparing the weekly forcasted values with the actuals and along with any issue occured an to create a weekly summary to explaine the weekly performance of the mine: CONTEXT:{}"
 # Create the context 
 context = kpi_context_creation(df_kpi, df_issues)
 
