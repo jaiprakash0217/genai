@@ -1,5 +1,3 @@
-'''
-from openai import AzureOpenAI
 import pandas as pd
 
 # Configuration of the API parameters
@@ -12,6 +10,8 @@ version = '2024-05-13'
 df_kpi = pd.read_csv('KibaliValues.csv')
 df_issues = pd.read_csv('KibaliKeyIssues.csv')
 
+'''
+from openai import AzureOpenAI
 def kpi_context_creation(df_kpi, df_issues):
 
     # Building the context template for KPIs
