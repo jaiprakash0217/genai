@@ -46,12 +46,8 @@
             response = await pyfetch(url, method="POST", headers=headers, body=data)
             result = await response.json()
             js.document.getElementById("output").innerText = result["choices"][0]["text"]
-
-        async def main():
-            button = js.document.getElementById("genaiBtn")
-            button.addEventListener("click", lambda e: asyncio.ensure_future(fetch_openai_data()))
-
-        asyncio.ensure_future(main())
+        Element("genaiBtn").element.onclick = fetch_openai_data
+        
     </script>
 
 </body>
