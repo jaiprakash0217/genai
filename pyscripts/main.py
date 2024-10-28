@@ -1,3 +1,4 @@
+'''
 from openai import AzureOpenAI
 import pandas as pd
 
@@ -110,7 +111,7 @@ def ask_llm(llm_prompt):
 
   # Print the response
   return generated_text
-
+'''
 from pyscript import Element
 def print_hello(event):
     Element('output').write('Hello, World!')
