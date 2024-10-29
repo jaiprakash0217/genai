@@ -94,12 +94,15 @@ async def ask_llm(llm_prompt):
   }
   
   ENDPOINT = "https://allinone-oai-sql.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-02-15-preview"
-  
+  data = {
+                "prompt": "Say this is a test",
+                "max_tokens": 5
+            }
   # Send request
   #try:
   #    response = requests.post(ENDPOINT, headers=headers, json=payload)
   #    response.raise_for_status()  # Will raise an HTTPError if the HTTP request returned an unsuccessful status code
-  response = await pyfetch(ENDPOINT, method="POST", headers=headers, body=payload)
+  response = await pyfetch(ENDPOINT, method="POST", headers=headers, body=data)
   result = await response.json()
   js.document.getElementById("output").innerText = result["choices"][0]["text"]    
   #except requests.RequestException as e:
