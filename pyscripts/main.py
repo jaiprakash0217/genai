@@ -104,7 +104,7 @@ def ask_llm(llm_prompt):
   generated_text = response.json()['choices'][0]['message']['content']
 
   # Print the response
-  return generated_text
+  Element('output').write(generated_text) 
 
 from pyscript import Element
 def print_hello(event):
