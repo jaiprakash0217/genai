@@ -63,10 +63,10 @@ async def ask_llm(llm_prompt):
   API_KEY = '5e91f5ecba35458d992b5c51b11643f8'
   headers = {
       "Content-Type": "application/json",
-      "api-key": API_KEY,
+      "Authorization": f"Bearer {API_KEY}"
   }
   
-  # Payload for the request
+  # Payload for the request - "api-key": API_KEY,
   payload = {
     "messages": [
       {
