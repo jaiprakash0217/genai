@@ -31,7 +31,7 @@
         import js
         from pyodide.http import pyfetch
 
-        async def fetch_openai_data():
+        async def fetch_openai_data(event):
             api_key = "5e91f5ecba35458d992b5c51b11643f8"
             url = "https://allinone-oai-sql.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-02-15-preview"
             headers = {
@@ -46,12 +46,8 @@
             response = await pyfetch(url, method="POST", headers=headers, body=data)
             result = await response.json()
             js.document.getElementById("output").innerText = result["choices"][0]["text"]
-        
-        async def main():
-            button = js.document.getElementById("genaiBtn")
-            button.addEventListener("click", lambda e: asyncio.ensure_future(fetch_openai_data()))
-
-        asyncio.run(main())
+        Element("genaiBtn").element.onclick = fetch_openai_data
+       
         
     </script>
 
