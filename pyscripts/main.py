@@ -54,7 +54,9 @@ llm_prompt= llm_prompt_template.format(context)
 print(llm_prompt)
 
 import requests
- 
+import asyncio
+import js
+from pyodide.http import pyfetch 
 def ask_llm(llm_prompt):
 
   # Configuration
@@ -95,16 +97,19 @@ def ask_llm(llm_prompt):
   
   # Send request
   try:
-      response = requests.post(ENDPOINT, headers=headers, json=payload)
-      response.raise_for_status()  # Will raise an HTTPError if the HTTP request returned an unsuccessful status code
+  #    response = requests.post(ENDPOINT, headers=headers, json=payload)
+  #    response.raise_for_status()  # Will raise an HTTPError if the HTTP request returned an unsuccessful status code
+       response = await pyfetch(ENDPOINT, method="POST", headers=headers, body=payload)
+       result = await response.json()
+  #     js.document.getElementById("output").innerText = result["choices"][0]["text"]    
   except requests.RequestException as e:
       raise SystemExit(f"Failed to make the request. Error: {e}")
   
   # Parse the API response
-  generated_text = response.json()['choices'][0]['message']['content']
+  #generated_text = response.json()['choices'][0]['message']['content']
 
   # Print the response
-  Element('output').write(generated_text) 
+  Element('output').write(result["choices"][0]["text"]) 
 
 from pyscript import Element
 def print_hello(event):
