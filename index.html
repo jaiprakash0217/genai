@@ -49,9 +49,9 @@
         
         async def main():
             button = js.document.getElementById("genaiBtn")
-            button.addEventListener("click", asyncio.ensure_future(fetch_openai_data()))
+            button.addEventListener("click", asyncio.run(fetch_openai_data()))
 
-        asyncio.ensure_future(main())
+        asyncio.run(main())
         
     </script>
 
