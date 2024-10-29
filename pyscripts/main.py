@@ -10,8 +10,6 @@ version = '2024-05-13'
 df_kpi = pd.read_csv('KibaliValues.csv')
 df_issues = pd.read_csv('KibaliKeyIssues.csv')
 
-'''
-from openai import AzureOpenAI
 def kpi_context_creation(df_kpi, df_issues):
 
     # Building the context template for KPIs
@@ -63,8 +61,6 @@ def ask_llm(llm_prompt):
 
   # Configuration
   API_KEY = '5e91f5ecba35458d992b5c51b11643f8'
-  #IMAGE_PATH = "YOUR_IMAGE_PATH"
-  #encoded_image = base64.b64encode(open(IMAGE_PATH, 'rb').read()).decode('ascii')
   headers = {
       "Content-Type": "application/json",
       "api-key": API_KEY,
@@ -111,7 +107,7 @@ def ask_llm(llm_prompt):
 
   # Print the response
   return generated_text
-'''
+
 from pyscript import Element
 def print_hello(event):
     Element('output').write('Hello, World!')
