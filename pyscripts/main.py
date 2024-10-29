@@ -53,9 +53,7 @@ context = kpi_context_creation(df_kpi, df_issues)
 llm_prompt= llm_prompt_template.format(context)
 print(llm_prompt)
 
-import os
 import requests
-import base64
  
 def ask_llm(llm_prompt):
 
