@@ -57,7 +57,7 @@ import requests
 import asyncio
 import js
 from pyodide.http import pyfetch 
-def ask_llm(llm_prompt):
+async def ask_llm(llm_prompt):
 
   # Configuration
   API_KEY = '5e91f5ecba35458d992b5c51b11643f8'
