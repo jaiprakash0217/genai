@@ -83,7 +83,7 @@ async def ask_llm(llm_prompt):
         "content": [
           {
             "type": "text",
-            "text": llm_prompt
+            "text": "Hello"
           }
         ]
       }
