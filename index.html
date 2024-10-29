@@ -25,30 +25,9 @@
     <script type="py"  >
         from pyscript import Element
         from main import print_hello
+        import fetch_openai_data
         Element("helloBtn").element.onclick = print_hello
-
-        import asyncio
-        import js
-        from pyodide.http import pyfetch
-
-        async def fetch_openai_data(event):
-            api_key = "5e91f5ecba35458d992b5c51b11643f8"
-            url = "https://allinone-oai-sql.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-02-15-preview"
-            headers = {
-                "Content-Type": "application/json",
-                "Authorization": f"Bearer {api_key}"
-            }
-            data = {
-                "prompt": "Say this is a test",
-                "max_tokens": 5
-            }
-
-            response = await pyfetch(url, method="POST", headers=headers, body=data)
-            result = await response.json()
-            js.document.getElementById("output").innerText = result["choices"][0]["text"]
-        Element("genaiBtn").element.onclick = fetch_openai_data
-       
-        
+        Element("genaiBtn").element.onclick = fetch_openai_data      
     </script>
 
 </body>
