@@ -65,9 +65,9 @@ async def ask_llm(llm_prompt):
       "Content-Type": "application/json",
       "api-key": API_KEY
   }
-  
+  import re
   # Payload for the request - "api-key": API_KEY,
-  payload ={"messages":[{"role":"system","content":[{"type":"text","text":llm_prompt}]}],"temperature":0.7,"top_p":0.95,"max_tokens":800}
+  payload ={"messages":[{"role":"system","content":[{"type":"text","text":re.escape(llm_prompt)}]}],"temperature":0.7,"top_p":0.95,"max_tokens":800}
   
   ENDPOINT = "https://allinone-oai-sql.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-02-15-preview"
 
