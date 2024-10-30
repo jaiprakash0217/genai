@@ -53,7 +53,7 @@ def get_llm_prompt():
     
     # Create the prompt for LLM
     llm_prompt= llm_prompt_template.format(context)
-    print(llm_prompt)
+    #print(llm_prompt)
     return llm_prompt
 
 import requests
@@ -73,7 +73,7 @@ async def ask_llm(llm_prompt):
   # Payload for the request - "api-key": API_KEY,
   llm_prompt = get_llm_prompt()
   payload ={"messages":[{"role":"system","content":[{"type":"text","text":llm_prompt}]}],"temperature":0.7,"top_p":0.95,"max_tokens":800}
-  print(payload)
+  #print(payload)
   ENDPOINT = "https://allinone-oai-sql.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-02-15-preview"
 
   # Send request
