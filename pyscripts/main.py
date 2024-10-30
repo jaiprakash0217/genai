@@ -6,9 +6,7 @@ endpoint = 'allinone-oai-sql'
 key = '5e91f5ecba35458d992b5c51b11643f8'
 version = '2024-05-13'
 
-# Reading the csv files extracted from KPI database
-df_kpi = pd.read_csv('KibaliValues.csv')
-df_issues = pd.read_csv('KibaliKeyIssues.csv')
+
 
 def kpi_context_creation(df_kpi, df_issues):
 
@@ -44,14 +42,19 @@ def kpi_context_creation(df_kpi, df_issues):
         context_text = context_text + kpi_context_template.format(**item)
     context_text += key_issues_context_template.format(**key_issues_dict)
     return context_text
-# Create the prompt template
-llm_prompt_template = "Please summarize the context provided below comparing the weekly forcasted values with the actuals and along with any issue occured an to create a weekly summary to explaine the weekly performance of the mine: CONTEXT: {}"
-# Create the context 
-context = kpi_context_creation(df_kpi, df_issues)
-
-# Create the prompt for LLM
-llm_prompt= json.dumps(llm_prompt_template.format(context))
-print(llm_prompt)
+def get_llm_prompt()
+    # Reading the csv files extracted from KPI database
+    df_kpi = pd.read_csv('KibaliValues.csv')
+    df_issues = pd.read_csv('KibaliKeyIssues.csv')
+    # Create the prompt template
+    llm_prompt_template = "Please summarize the context provided below comparing the weekly forcasted values with the actuals and along with any issue occured an to create a weekly summary to explaine the weekly performance of the mine: CONTEXT: {}"
+    # Create the context 
+    context = kpi_context_creation(df_kpi, df_issues)
+    
+    # Create the prompt for LLM
+    llm_prompt= llm_prompt_template.format(context)
+    print(llm_prompt)
+    return llm_prompt
 
 import requests
 import asyncio
@@ -67,6 +70,7 @@ async def ask_llm(llm_prompt):
   }
   import re
   # Payload for the request - "api-key": API_KEY,
+  llm_prompt = get_llm_prompt()
   payload ={"messages":[{"role":"system","content":[{"type":"text","text":llm_prompt}]}],"temperature":0.7,"top_p":0.95,"max_tokens":800}
   print(payload)
   ENDPOINT = "https://allinone-oai-sql.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-02-15-preview"
