@@ -59,6 +59,7 @@ def get_llm_prompt():
 import requests
 import asyncio
 import js
+import markdown
 from pyodide.http import pyfetch 
 async def ask_llm(llm_prompt):
 
@@ -86,7 +87,7 @@ async def ask_llm(llm_prompt):
   #    raise SystemExit(f"Failed to make the request. Error: {e}")
   
   # Parse the API response
-  generated_text = response.json()['choices'][0]['message']['content']
+  generated_text = markdown.markdown(response.json()['choices'][0]['message']['content'])
 
   # Print the response
   Element('output').write(generated_text) 
