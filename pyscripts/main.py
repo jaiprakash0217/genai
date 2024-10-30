@@ -47,7 +47,7 @@ def kpi_context_creation(df_kpi, df_issues):
 # Create the prompt template
 llm_prompt_template = "Please summarize the context provided below comparing the weekly forcasted values with the actuals and along with any issue occured an to create a weekly summary to explaine the weekly performance of the mine: CONTEXT: "
 # Create the context 
-context = json.dumps(kpi_context_creation(df_kpi, df_issues))
+context = kpi_context_creation(df_kpi, df_issues)
 
 # Create the prompt for LLM
 llm_prompt= llm_prompt_template + context
