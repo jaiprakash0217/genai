@@ -1,5 +1,5 @@
 import pandas as pd
-
+import json
 # Configuration of the API parameters
 deployment_name = 'gpt-4o'
 endpoint = 'allinone-oai-sql'
@@ -47,7 +47,7 @@ def kpi_context_creation(df_kpi, df_issues):
 # Create the prompt template
 llm_prompt_template = "Please summarize the context provided below comparing the weekly forcasted values with the actuals and along with any issue occured an to create a weekly summary to explaine the weekly performance of the mine: CONTEXT:{}"
 # Create the context 
-context = kpi_context_creation(df_kpi, df_issues)
+context = json.dumps(kpi_context_creation(df_kpi, df_issues))
 
 # Create the prompt for LLM
 llm_prompt= llm_prompt_template.format(context)
