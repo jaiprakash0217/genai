@@ -1,6 +1,5 @@
 import pandas as pd
 import json
-
 # Configuration of the API parameters
 deployment_name = 'gpt-4o'
 endpoint = 'allinone-oai-sql'
