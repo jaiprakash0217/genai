@@ -90,7 +90,7 @@ async def ask_llm(llm_prompt):
   generated_text = markdown.markdown(response.json()['choices'][0]['message']['content'])
 
   # Print the response
-  Element('output').write(generated_text) 
+  Element('output').innerHTML = generated_text
 
 from pyscript import Element
 def print_hello(event):
