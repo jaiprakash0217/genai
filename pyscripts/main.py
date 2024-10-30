@@ -42,7 +42,7 @@ def kpi_context_creation(df_kpi, df_issues):
         context_text = context_text + kpi_context_template.format(**item)
     context_text += key_issues_context_template.format(**key_issues_dict)
     return context_text
-def get_llm_prompt()
+def get_llm_prompt():
     # Reading the csv files extracted from KPI database
     df_kpi = pd.read_csv('KibaliValues.csv')
     df_issues = pd.read_csv('KibaliKeyIssues.csv')
