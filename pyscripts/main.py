@@ -68,29 +68,29 @@ async def ask_llm(llm_prompt):
   
   # Payload for the request - "api-key": API_KEY,
   payload = {
-    "messages": [
+    'messages': [
       {
-        "role": "system",
-        "content": [
+        'role': 'system',
+        'content': [
           {
-            "type": "text",
-            "text": "You are a senior geologist working as a mine GM."
+            'type': 'text',
+            'text': 'You are a senior geologist working as a mine GM.'
           }
         ]
       },
       {
-        "role": "user",
-        "content": [
+        'role': 'user',
+        'content': [
           {
-            "type": "text",
-            "text": "Hello"
+            'type': 'text',
+            'text': 'Hello'
           }
         ]
       }
     ],
-    "temperature": 0.7,
-    "top_p": 0.95,
-    "max_tokens": 800
+    'temperature': 0.7,
+    'top_p': 0.95,
+    'max_tokens': 800
   }
   
   ENDPOINT = "https://allinone-oai-sql.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-02-15-preview"
