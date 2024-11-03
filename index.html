@@ -16,7 +16,7 @@
 
     <dev id="output" markdown="1"></dev>
     <py-config>
-        packages = ["pandas","requests","markdown","https://test.pypi.org/simple/pygenai"]
+        packages = ["pandas","requests","markdown","pygenaiapi"]
         [[fetch]]
         from = "./pyscripts/"
         files = ["KibaliValues.csv","KibaliKeyIssues.csv"]
@@ -24,7 +24,7 @@
     
     <script type="py"  >
         from pyscript import Element
-        from pygenai import print_hello
+        from pygenaiapi import print_hello
         
         from main import ask_llm
         Element("helloBtn").element.onclick = print_hello
