@@ -16,15 +16,15 @@
 
     <dev id="output" markdown="1"></dev>
     <py-config>
-        packages = ["pandas","requests","markdown","allinone-genai>=0.0.2"]
+        packages = ["pandas","requests","markdown","https://test.pypi.org/simple/pygenai==0.0.5"]
         [[fetch]]
         from = "./pyscripts/"
-        files = ["main.py","KibaliValues.csv","KibaliKeyIssues.csv"]
+        files = ["KibaliValues.csv","KibaliKeyIssues.csv"]
     </py-config>
     
     <script type="py"  >
         from pyscript import Element
-        from main import print_hello
+        from pygenai import print_hello
         
         from main import ask_llm
         Element("helloBtn").element.onclick = print_hello
