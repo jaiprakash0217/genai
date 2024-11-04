@@ -15,14 +15,8 @@
     <button id="genaiBtn">GenAI Button</button>
 
     <dev id="output" markdown="1"></dev>
-    <py-config>
-        packages = ["pandas","requests","markdown","pygenaiapi"]
-        [[fetch]]
-        from = "./pyscripts/"
-        files = ["KibaliValues.csv","KibaliKeyIssues.csv"]
-    </py-config>
-    
-    <script type="py"  >
+   
+    <script type="py" config="./pyscript.toml">
         from pyscript import Element
         from pygenaiapi import print_hello
         
