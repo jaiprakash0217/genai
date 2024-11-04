@@ -28,7 +28,7 @@
         js.document.getElementById("helloBtn").onclick = print_hello
         js.document.getElementById("genaiBtn").onclick = ask_llm    
         os.environ["NEW"] = "NEW"
-        load_dotenv(find_dotenv())
+        load_dotenv('.env')
         print(os.environ)
         print(os.getenv("TEST"))
         
