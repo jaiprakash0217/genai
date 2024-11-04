@@ -33,19 +33,7 @@
         load_dotenv(dotenv_path)
         print(os.environ)
         print(os.getenv("TEST"))
-        print( join(dirname(__file__)," is file path."))
-        print( join(os.path.abspath(__file__)," is file path."))
-        print( join(os.path.realpath(__file__)," is file path."))
-        print(os.getcwd())
-        import sys
-        
-        print(__file__)                                        # main.py
-        print(sys.argv[0])                                     # main.py               
-        print(sys.path[0])                                     # C:\filepaths
-        print(os.path.abspath(os.path.split(sys.argv[0])[0]))  # C:\filepaths
-        print(os.path.dirname(os.path.abspath(__file__)))      # C:\filepaths
-        print( os.path.dirname(os.path.realpath(sys.argv[0])))  # C:\filepaths
-        
+
     </script>
 </body>
 </html>
