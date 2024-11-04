@@ -54,8 +54,8 @@
         print(sys.path[0])                                     # C:\filepaths
         print(os.path.abspath(os.path.split(sys.argv[0])[0]))  # C:\filepaths
         print(os.path.dirname(os.path.abspath("__file__")))      # C:\filepaths
-        print os.path.dirname(os.path.realpath(sys.argv[0]))  # C:\filepaths
-        print os.path.dirname("__file__")                       # (empty string)
+        print( os.path.dirname(os.path.realpath(sys.argv[0])))  # C:\filepaths
+        print( os.path.dirname("__file__"))                       # (empty string)
                 
         print(inspect.getfile(inspect.currentframe()))         # lib/bar.py
         
