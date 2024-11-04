@@ -17,13 +17,13 @@
 
     <dev id="output" markdown="1"></dev>
    
-     <section class="pyscript"><script type="py" config="pyscript.toml">
+    <script type="py" config="pyscript.toml">
         from pyscript import Element
         from pygenaiapi import print_hello
         
         from pygenaiapi import ask_llm
         Element("helloBtn").element.onclick = print_hello
         Element("genaiBtn").element.onclick = ask_llm      
-    </script></section>
+    </script>
 </body>
 </html>
