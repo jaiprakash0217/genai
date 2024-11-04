@@ -33,38 +33,18 @@
         load_dotenv(dotenv_path)
         print(os.environ)
         print(os.getenv("TEST"))
-        print( join(dirname("__file__")," is file path."))
-        print( join(os.path.abspath("__file__")," is file path."))
-        print( join(os.path.realpath("__file__")," is file path."))
+        print( join(dirname(__file__)," is file path."))
+        print( join(os.path.abspath(__file__)," is file path."))
+        print( join(os.path.realpath(__file__)," is file path."))
         print(os.getcwd())
         import sys
-        import inspect
         
-        print("Python " + sys.version)
-        print("__file__")                                        # main.py
-        print(sys.argv[0])                                     # main.py
-        print(inspect.stack()[0][1])                           # lib/bar.py
-        print(sys.path[0])                                     # C:\filepaths
-        
-        print(os.path.realpath("__file__"))                      # C:\filepaths\main.py
-        print(os.path.abspath("__file__"))                       # C:\filepaths\main.py
-        print(os.path.basename("__file__"))                      # main.py
-        print(os.path.basename(os.path.realpath(sys.argv[0]))) # main.py
-                
+        print(__file__)                                        # main.py
+        print(sys.argv[0])                                     # main.py               
         print(sys.path[0])                                     # C:\filepaths
         print(os.path.abspath(os.path.split(sys.argv[0])[0]))  # C:\filepaths
-        print(os.path.dirname(os.path.abspath("__file__")))      # C:\filepaths
+        print(os.path.dirname(os.path.abspath(__file__)))      # C:\filepaths
         print( os.path.dirname(os.path.realpath(sys.argv[0])))  # C:\filepaths
-        print( os.path.dirname("__file__"))                       # (empty string)
-                
-        print(inspect.getfile(inspect.currentframe()))         # lib/bar.py
-        
-        print(os.path.abspath(inspect.getfile(inspect.currentframe()))) # C:\filepaths\lib\bar.py
-        print(os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))) # C:\filepaths\lib
-        
-        print(os.path.abspath(inspect.stack()[0][1]))          # C:\filepaths\lib\bar.py
-        print(os.path.dirname(os.path.abspath(inspect.stack()[0][1])))  # C:\filepaths\lib
-        
         
     </script>
 </body>
