@@ -1,4 +1,4 @@
-packages = ["pandas","requests","markdown","pygenaiapi"]
+packages = ["python-dotenv","pandas","requests","markdown","pygenaiapi"]
 [[fetch]]
 from = "./pyscripts/"
 files = ["KibaliValues.csv","KibaliKeyIssues.csv"]
