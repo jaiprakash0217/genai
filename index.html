@@ -33,6 +33,11 @@
         print(os.environ)
         print(os.getenv("TEST"))
         print( join(dirname("__file__")," is file path."))
+        print( join(os.path.abspath("__file__")," is file path."))
+        print( join(os.path.realpath("__file__")," is file path."))
+        print(os.getcwd())
+        
+        
     </script>
 </body>
 </html>
