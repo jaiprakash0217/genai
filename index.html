@@ -21,11 +21,13 @@
     <script type="py" config="pyscript.toml">
         from pygenaiapi import print_hello        
         from pygenaiapi import ask_llm
+        from dotenv import load_dotenv
         import js
         import os
         
         js.document.getElementById("helloBtn").onclick = print_hello
-        js.document.getElementById("genaiBtn").onclick = ask_llm      
+        js.document.getElementById("genaiBtn").onclick = ask_llm     
+        load_dotenv()
         print(os.environ)
         
     </script>
