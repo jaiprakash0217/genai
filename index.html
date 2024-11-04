@@ -17,8 +17,7 @@
     <button id="genaiBtn">GenAI Button</button>
 
     <dev id="output" markdown="1"></dev>
-    <script type="py" src='main.py" config="pyscript.toml">
-       <!-- 
+    <script type="py" config="pyscript.toml">
         from pygenaiapi import print_hello        
         from pygenaiapi import ask_llm
         from dotenv import load_dotenv
@@ -29,11 +28,11 @@
         js.document.getElementById("helloBtn").onclick = print_hello
         js.document.getElementById("genaiBtn").onclick = ask_llm    
         os.environ["NEW"] = "NEW"
-        dotenv_path = join(dirname(__file__), '/.env')
+        dotenv_path =('/.env')
         load_dotenv(dotenv_path)
         print(os.environ)
         print(os.getenv("TEST"))
-        -->
+        print( join(dirname(__file__)," is file path."))
     </script>
 </body>
 </html>
