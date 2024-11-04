@@ -23,8 +23,8 @@
         from pygenaiapi import print_hello
         
         from pygenaiapi import ask_llm
-        Element("helloBtn").element.onclick = print_hello
-        Element("genaiBtn").element.onclick = ask_llm      
+        js.document.getElementById("helloBtn").onclick = print_hello
+        js.document.getElementById("genaiBtn").onclick = ask_llm      
     </script>
 </body>
 </html>
