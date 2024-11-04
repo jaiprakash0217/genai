@@ -23,17 +23,11 @@
         from dotenv import load_dotenv
         import js
         import os
-        from os.path import join, dirname
-        from os import listdir
         
         js.document.getElementById("helloBtn").onclick = print_hello
         js.document.getElementById("genaiBtn").onclick = ask_llm    
-        os.environ["NEW"] = "NEW"
-        dotenv_path =listdir("/home/pyodide")
-        print(dotenv_path)
         load_dotenv(".env")
         print(os.environ)
-        print(os.getenv("TEST"))
 
     </script>
 </body>
