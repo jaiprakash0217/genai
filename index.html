@@ -31,7 +31,7 @@
         os.environ["NEW"] = "NEW"
         dotenv_path =listdir("/home/pyodide")
         print(dotenv_path)
-        
+        load_dotenv(".env")
         print(os.environ)
         print(os.getenv("TEST"))
 
