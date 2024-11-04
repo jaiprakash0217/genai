@@ -1,6 +1,6 @@
 var1 = "ok 1"
 var2 = "ok 2"
-packages = ["pyscript","pandas","requests","markdown","pygenaiapi"]
+packages = ["pandas","requests","markdown","pygenaiapi"]
 [[fetch]]
 from = "./pyscripts/"
 files = ["KibaliValues.csv","KibaliKeyIssues.csv"]
