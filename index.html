@@ -17,8 +17,13 @@
     <button id="genaiBtn">GenAI Button</button>
 
     <dev id="output" markdown="1"></dev>
-   
-    <script type="py" src='main.py" config="pyscript.toml">
+    <py-config>
+        packages = ["python-dotenv","pandas","requests","markdown","pygenaiapi"]
+        [[fetch]]
+        from = "./pyscripts/"
+        files = ["main.py","KibaliValues.csv","KibaliKeyIssues.csv"]
+    </py-config>   
+    <script type="py" src='main.py">
        <!-- 
         from pygenaiapi import print_hello        
         from pygenaiapi import ask_llm
