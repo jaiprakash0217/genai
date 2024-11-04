@@ -21,14 +21,16 @@
     <script type="py" config="pyscript.toml">
         from pygenaiapi import print_hello        
         from pygenaiapi import ask_llm
-        from dotenv import load_dotenv, find_dotenv, dotenv_values
+        from dotenv import load_dotenv
         import js
         import os
+        from os.path import join, dirname
         
         js.document.getElementById("helloBtn").onclick = print_hello
         js.document.getElementById("genaiBtn").onclick = ask_llm    
         os.environ["NEW"] = "NEW"
-        load_dotenv('.env')
+        dotenv_path = join(dirname(__file__), '/.env')
+        load_dotenv(dotenv_path)
         print(os.environ)
         print(os.getenv("TEST"))
         
