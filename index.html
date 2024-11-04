@@ -19,9 +19,10 @@
     <dev id="output" markdown="1"></dev>
    
     <script type="py" config="pyscript.toml">
-        from pygenaiapi import print_hello
-        
+        from pygenaiapi import print_hello        
         from pygenaiapi import ask_llm
+        import js
+        
         js.document.getElementById("helloBtn").onclick = print_hello
         js.document.getElementById("genaiBtn").onclick = ask_llm      
     </script>
